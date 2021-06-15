@@ -33,3 +33,7 @@ target/**
 *.iml
 
 **/*.yml
+
+data
+**/data
+data/**
